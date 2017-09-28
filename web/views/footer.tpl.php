@@ -18,5 +18,5 @@
       <li><a href="https://www.instagram.com/ulna_co/" class="icon fa-instagram alt"><span class="label">Instagram</span></a></li>
     </ul>
   </section>
-  <p class="copyright">&copy; Ulna Health | <a href="/privacy.php">Privacy Policy</a>.</p>
+  <p class="copyright">&copy; Ulna Health | <a href="/">Home</a> | <a href="/privacy.php">Privacy Policy</a>.</p>
 </footer>
