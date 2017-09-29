@@ -1,4 +1,4 @@
-<title>Ulna Health</title>
+<title>Ulna Health - <?php echo $title; ?></title>
 <meta name="description" content="Ulna is designed to dramatically optimize people’s health and efficiency with well built software that helps them reach their true potential." />
 <meta name="google-site-verification" content="LLI0ak_jy9MIJQDBe-Q4u48owh8e9uLWlNKfXghmLhM" />
 
@@ -14,7 +14,8 @@
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+
+<!-- CSS -->
 <link rel="stylesheet" href="assets/css/main.css" />
 <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->

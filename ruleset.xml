@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="pcsg-generated-ruleset">
+ <description>BAD GAZELLE</description>
+ <rule ref="Generic.Classes.DuplicateClassName"/>
+ <rule ref="Generic.CodeAnalysis.EmptyStatement"/>
+ <rule ref="Generic.CodeAnalysis.JumbledIncrementer"/>
+ <rule ref="Generic.CodeAnalysis.UnconditionalIfStatement"/>
+ <rule ref="Generic.CodeAnalysis.UnnecessaryFinalModifier"/>
+ <rule ref="Generic.CodeAnalysis.UnusedFunctionParameter"/>
+ <rule ref="Generic.CodeAnalysis.UselessOverridingMethod"/>
+ <rule ref="Generic.Files.ByteOrderMark"/>
+
+ <!-- Line Length -->
+ <!-- <rule ref="Generic.Files.LineLength">
+   <properties>
+     <property name="lineLimit" value="120"/>
+     <property name="absoluteLineLimit" value="140"/>
+   </properties>
+ </rule> -->
+
+ <rule ref="Generic.Formatting.DisallowMultipleStatements"/>
+ <rule ref="Generic.Formatting.NoSpaceAfterCast"/>
+ <rule ref="Generic.Functions.CallTimePassByReference"/>
+ <rule ref="Generic.Functions.OpeningFunctionBraceBsdAllman"/>
+ <rule ref="Generic.Metrics.CyclomaticComplexity">
+   <properties>
+     <property name="complexity" value="11"/>
+     <property name="absoluteComplexity" value="30"/>
+   </properties>
+ </rule>
+ <rule ref="Generic.Metrics.NestingLevel">
+   <properties>
+     <property name="absoluteNestingLevel" value="5"/>
+   </properties>
+ </rule>
+
+ <rule ref="Generic.PHP.DeprecatedFunctions" />
+ <rule ref="Generic.PHP.DisallowShortOpenTag" />
+ <rule ref="Generic.PHP.ForbiddenFunctions" />
+ <rule ref="Generic.PHP.NoSilencedErrors" />
+ <rule ref="Generic.Strings.UnnecessaryStringConcat"/>
+
+ <rule ref="MySource.PHP.EvalObjectFactory"/>
+ <rule ref="MySource.PHP.ReturnFunctionValue"/>
+ <rule ref="PEAR.Commenting.InlineComment"/>
+ <rule ref="PEAR.ControlStructures.ControlSignature"/>
+ <rule ref="PEAR.ControlStructures.MultiLineCondition"/>
+ <rule ref="PEAR.Files.IncludingFile"/>
+ <rule ref="PEAR.Formatting.MultiLineAssignment"/>
+</ruleset>

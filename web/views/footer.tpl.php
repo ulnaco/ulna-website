@@ -18,5 +18,15 @@
       <li><a href="https://www.instagram.com/ulna_co/" class="icon fa-instagram alt"><span class="label">Instagram</span></a></li>
     </ul>
   </section>
-  <p class="copyright">&copy; Ulna Health | <a href="/">Home</a> | <a href="/privacy.php">Privacy Policy</a>.</p>
+  <p class="copyright">&copy; Ulna Health | <a href="/">Home</a> | <a href="/privacy">Privacy Policy</a>.</p>
 </footer>
+
+<!-- JS -->
+<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
