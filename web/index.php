@@ -35,8 +35,13 @@
 					<p>Health Rating + More</p>
 				</header>
 				<p class="content">
-					<span class="image left"><img src="assets/images/anatomy-logo.png" alt=""></span>
-					Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
+					<span class="image left"><img src="assets/images/anatomy-logo.png" alt="Ulna Anatomy iOS App"></span>
+					Ulna Anatomy is an iOS App that uses Apple Health to help you improve your health. <i>How healthy are you? How would you rate your Health?</i> Ulna Anatomy creates a health rating based on your weight and fitness. Inside the app, you can also log your weight and share that data across other applications. It's possible to dramatically optimize people’s health and efficiency with well-built software that helps them reach their true potential. Ulna Anatomy is free and currently in beta. Ulna Anatomy launches Fall of 2017 on iOS. Join the public Beta today.</p>
+
+					<img src="assets/images/screenshots.png" width="100%" />
+
+					<br/>
+					<br/>
 
 					<!-- Begin MailChimp Signup Form -->
 					<style type="text/css">

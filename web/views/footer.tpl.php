@@ -1,8 +1,8 @@
 <!-- Footer -->
 <footer id="footer">
   <section>
-    <h2>Aliquam sed mauris</h2>
-    <p>Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio.</p>
+    <h2>Ulna Health / Vision</h2>
+    <p>Data can be harnessed to create a better world. It will bring us closer together. It will change how we perceive ourselves. It will save lives.</p>
   </section>
   <section>
     <h2>More about Ulna Health</h2>
