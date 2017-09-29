@@ -1,3 +1,6 @@
+<?php
+	$title = 'Privacy Policy';
+?>
 <!DOCTYPE HTML>
 <html>
 <head>
